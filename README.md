@@ -3,9 +3,8 @@
 <div align="center">
 
 ### 🚀 Java Backend Developer | Spring Boot Enthusiast | REST API Architect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/Ramzes196)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramis.sadykov.99@mail.ru)
 [![CV](https://img.shields.io/badge/CV-Download-blue?style=flat&logo=google-drive)](https://drive.google.com/file/d/10fsk91J5arkQstNq58eDFMmw8FaqPGdB/view?usp=drive_link)
 
