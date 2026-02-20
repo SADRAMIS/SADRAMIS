@@ -18,7 +18,7 @@ Java Backend Developer with experience in building scalable REST APIs and micros
 
 🔍 **Quick Facts:**
 - 📍 Kazan, Russia  
-- 💼 Junior / Strong Junior Java Backend Developer
+- 💼 Java Backend Developer
 - 🎯 Specialized in: REST APIs, Spring Security, JPA/Hibernate, Docker
 - 📊 Interested in: Microservices, Kafka, Redis, CI/CD
 - 💡 Philosophy: Writing clean, maintainable, and tested code
